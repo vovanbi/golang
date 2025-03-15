@@ -58,4 +58,5 @@
 ### Design Patterns
 - [Worker](design_patterns/worker/worker.go)
 
-## Contributing 🤝
+## Document 🤝
+- [GOLANG](https://github.com/a8m/golang-cheat-sheet)
